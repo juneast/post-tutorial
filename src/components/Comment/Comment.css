@@ -1,0 +1,8 @@
+.Comment p {
+    font-size: 1.2rem;
+    columns: #868e06;
+}
+
+.Comment p b {
+    color: #212529;
+}
