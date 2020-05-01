@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/post-tutorial/static/css/main.b6b16609.chunk.css",
+    "main.js": "/post-tutorial/static/js/main.84c20082.chunk.js",
+    "main.js.map": "/post-tutorial/static/js/main.84c20082.chunk.js.map",
+    "runtime-main.js": "/post-tutorial/static/js/runtime-main.1960cb1f.js",
+    "runtime-main.js.map": "/post-tutorial/static/js/runtime-main.1960cb1f.js.map",
+    "static/css/2.d98aaeda.chunk.css": "/post-tutorial/static/css/2.d98aaeda.chunk.css",
+    "static/js/2.0fe0e577.chunk.js": "/post-tutorial/static/js/2.0fe0e577.chunk.js",
+    "static/js/2.0fe0e577.chunk.js.map": "/post-tutorial/static/js/2.0fe0e577.chunk.js.map",
+    "index.html": "/post-tutorial/index.html",
+    "precache-manifest.a2eee655442ede49645e806d9aa93303.js": "/post-tutorial/precache-manifest.a2eee655442ede49645e806d9aa93303.js",
+    "service-worker.js": "/post-tutorial/service-worker.js",
+    "static/css/2.d98aaeda.chunk.css.map": "/post-tutorial/static/css/2.d98aaeda.chunk.css.map",
+    "static/css/main.b6b16609.chunk.css.map": "/post-tutorial/static/css/main.b6b16609.chunk.css.map",
+    "static/js/2.0fe0e577.chunk.js.LICENSE.txt": "/post-tutorial/static/js/2.0fe0e577.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/post-tutorial/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1960cb1f.js",
+    "static/css/2.d98aaeda.chunk.css",
+    "static/js/2.0fe0e577.chunk.js",
+    "static/css/main.b6b16609.chunk.css",
+    "static/js/main.84c20082.chunk.js"
+  ]
+}
